@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alexgaldamez/azure-network-protocols)
 
 - <b>GNS3 Sandboxing: Network Configuration and Testing</b>
-  - [GNS3 Sandbox Project](https://github.com/alexgaldamez/gns3-sandbox1)
+  - [GNS3 Sandbox Project](https://github.com/A23Gmez/gns3-sandbox1)
     - Configured a GNS3 network topology including:
       - Two Windows PCs (PC1_TestNetwork, PC2_TestNetwork) and a server connected to a router
       - Assigned appropriate IP addresses
