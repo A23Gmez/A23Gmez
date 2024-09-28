@@ -24,7 +24,7 @@
     - Configured a new Azure VM.
     - installed Proton app in the Azure VM
     - showcased my computer, Azure VM, and the VPN within the Azure VM IP addresses
-      using  
+      using https://whatismyipaddress.com
 
 <h2>🤳Connect with me:</h2>
 
