@@ -20,6 +20,9 @@
       - Performed network connectivity tests between all devices using ping commands
     - Submitted screenshots of the network setup and test results, including successful pings from PC1 to PC2 and the server.
 
+-<b>Proton VPN w/ Windows Azure
+ -
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Alex | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
