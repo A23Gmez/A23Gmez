@@ -21,6 +21,10 @@
 
 - <b>Proton VPN w/ Windows Azure</b>
   - [Proton VPN](https://github.com/A23Gmez/Proton-VPN)
+    - Configured a new Azure VM.
+    - installed Proton app in the Azure VM
+    - showcased my computer, Azure VM, and the VPN within the Azure VM IP addresses
+      using  
 
 <h2>🤳Connect with me:</h2>
 
