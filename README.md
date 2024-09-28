@@ -18,7 +18,6 @@
       - Two Windows PCs (PC1_TestNetwork, PC2_TestNetwork) and a server connected to a router
       - Assigned appropriate IP addresses
       - Performed network connectivity tests between all devices using ping commands
-    - Submitted screenshots of the network setup and test results, including successful pings from PC1 to PC2 and the server.
 
 - <b>Proton VPN w/ Windows Azure</b>
   - [Proton VPN](https://github.com/A23Gmez/Proton-VPN)
