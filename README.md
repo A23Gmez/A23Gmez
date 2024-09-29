@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Azure Compute and Networking Part 1](https://github.com/A23Gmez/Azure-Compute-and-Networking)
   - [Azure Compute and Networking Part 2]()
-  - [Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/alexgaldamez/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/A23Gmez/configure-ad)
     - Preparing AD Infrastructure In Azure
     - Deploying Active Directory
     
