@@ -12,11 +12,12 @@
   - [Azure Compute and Networking Part 2]()
   - [Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/A23Gmez/configure-ad)
     - Preparing AD Infrastructure In Azure
+  - [Configuring On-premisses Active directory within Azure VMs Part 1.2](https://github.com/A23Gmez/configure-ad-1.2)
     - Deploying Active Directory
-    
   - [Configuring On-premises Axtive Directory within Azure VMs Part 2](https://github.com/A23Gmez/configure-ad-2)
-     - Creating Users with PowerShell
-     - Group Policy and Managing Accounts
+    - Creating Users with PowerShell
+  - [Configuring On-premises Active Directory within Azure VMs Part 2.2]
+    - Group Policy and Managing Accounts
     
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alexgaldamez/azure-network-protocols)
 
@@ -32,7 +33,7 @@
     - Configured a new Azure VM.
     - installed Proton app in the Azure VM
     - showcased my computer, Azure VM, and the VPN within the Azure VM IP addresses
-      using https://whatismyipaddress.com
+      using whatismyipaddress.com
 
 <h2>🤳Connect with me:</h2>
 
