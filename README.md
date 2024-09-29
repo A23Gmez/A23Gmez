@@ -14,7 +14,7 @@
     - Preparing AD Infrastructure In Azure
     - Deploying Active Directory
     
-  - [Configuring On-premises Axtive Directory within Azure VMs Part 2]()
+  - [Configuring On-premises Axtive Directory within Azure VMs Part 2](https://github.com/A23Gmez/configure-ad-2)
      - Creating Users with PowerShell
      - Group Policy and Managing Accounts
     
