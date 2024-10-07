@@ -16,7 +16,7 @@
     - Deploying Active Directory
   - [Configuring On-premises Axtive Directory within Azure VMs Part 2](https://github.com/A23Gmez/configure-ad-2)
     - Creating Users with PowerShell
-  - [Configuring On-premises Active Directory within Azure VMs Part 2.2]
+  - [Configuring On-premises Active Directory within Azure VMs Part 2.2](https://github.com/A23Gmez/configure-ad-2.2)
     - Group Policy and Managing Accounts
     
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alexgaldamez/azure-network-protocols)
