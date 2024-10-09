@@ -18,8 +18,8 @@
     - Creating Users with PowerShell
   - [Configuring On-premises Active Directory within Azure VMs Part 2.2](https://github.com/A23Gmez/configure-ad-2.2)
     - Group Policy and Managing Accounts
-  - [Practicing with DNS]
-
+  - [Practicing with DNS](https://github.com/A23Gmez/DNS_practice)
+    - A-Record Excercise, Local DNS Cache Exercise, CNAME Record Exercise
 - <b>GNS3 Sandboxing: Network Configuration and Testing</b>
   - [GNS3 Sandbox Project](https://github.com/A23Gmez/gns3-sandbox1)
     - Configured a GNS3 network topology including:
