@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alex-galdamez/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology & Cybersecurity Projects:</h2>
+<h2>👨‍💻 Information Technology 👨‍💻:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/alexgaldamez/osticket-prereqs)
