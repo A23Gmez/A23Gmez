@@ -1,11 +1,6 @@
 <h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alex-galdamez/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology 👨‍💻:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/alexgaldamez/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/alexgaldamez/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/alexgaldamez/ticket-lifecycle)
   
 - <b>Microsoft Azure</b>
   - [Azure Compute and Networking Part 1](https://github.com/A23Gmez/Azure-Compute-and-Networking)
